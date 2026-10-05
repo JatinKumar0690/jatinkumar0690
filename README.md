@@ -2,7 +2,7 @@
 
 Hi 👋 I'm **Jatin Kumar**  
 
-🚀 Full-Stack Developer | Java DSA Learner | Open Source Enthusiast  
+🚀 Full-Stack Developer || Data structures & Algorithms ||  
 
 I build responsive and scalable full-stack web applications using the MERN stack while continuously improving my problem-solving skills with Java DSA.
 
